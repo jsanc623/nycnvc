@@ -1,0 +1,6 @@
+/** 
+ * Override the default 'a' elem style
+ */
+a, a:visited {
+    color: #804090;
+}
