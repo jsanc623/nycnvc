@@ -2,5 +2,11 @@
  * Override the default 'a' elem style
  */
 a, a:visited {
-    color: #804090;
+    color: #800000;
 }
+
+body {
+    font-family: Verdana;
+}
+
+
