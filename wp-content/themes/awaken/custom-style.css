@@ -2,7 +2,12 @@
  * Override the default 'a' elem style
  */
 a, a:visited {
-    color: #800000;
+    /*color: #800000;*/
+    color: #FA5742;
+}
+
+.main-navigation {
+    background-color: #3A1702;
 }
 
 body {
@@ -12,4 +17,11 @@ body {
 
 .page-entry-header {
     display: none;
+}
+
+.current_page_item{ 
+    background-color: #FD5645;
+}
+.current_page_item > a {
+    color: #F1F1F1;
 }
