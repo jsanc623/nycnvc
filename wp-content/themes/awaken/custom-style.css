@@ -10,4 +10,6 @@ body {
     font-size: 13px;
 }
 
-
+.page-entry-header {
+    display: none;
+}
